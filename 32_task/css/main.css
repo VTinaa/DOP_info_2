@@ -1,0 +1,13 @@
+/* Стилі для заголовка */
+.heading {
+    font-size: 24px;
+    color: blue;
+}
+
+/* Стилі для параграфа */
+.paragraph {
+    font-size: 16px;
+    color: green;
+}
+
+/* Ваші власні стилі можна додати тут */
